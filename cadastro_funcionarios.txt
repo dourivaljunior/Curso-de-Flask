@@ -1,0 +1,11 @@
+matricula,nome,rg,estado_civil,grau_instrucao,numero_filhos,salario,idade,cidade
+1005001,Paulo Souza,123456,casado,ensino medio,4,3000,21,Salvador
+1005002,Maria do Rosario,234456,solteiro,ensino fundamental,1,1200,23,Feira de Santana
+1005003,Ana de Almeida,345123,casado,ensino fundamental,2,1300,34,Feira de Santana
+1005004,Pedro Reboucas,456789,solteiro,ensino medio, 0,3200,34,Salvador
+1005005,Paulo Santana,621456,solteiro,ensino superior, 0,4500,45,Salvador
+1005006,Maria das Neves,954412,casado,ensino superior,0,4600,32,Salvador
+1005007,Olavo de Oliveira,865432,solteiro,ensino fundamental, 2,1350,40,Salvador
+1005008,Antonio de Santana,334876,solteiro,superior, 0,4550,22,Feira de Santana
+1005009,Leoncio Neto,643976,casado,ensino medio,1,3330,45,Feira de Santana
+10050010,Icaro Oliveira,513966,solteiro,ensino medio, 0,3250,55,Alagoinhas
